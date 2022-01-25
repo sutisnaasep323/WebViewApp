@@ -6,9 +6,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/youtube"
+        android:icon="@drawable/instagram"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/youtube"
+        android:roundIcon="@drawable/instagram"
         android:supportsRtl="true"
         android:theme="@style/Theme.WebView">
         <activity

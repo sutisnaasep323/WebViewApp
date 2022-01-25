@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         WebView webview = findViewById(R.id.web);
         webview.setWebViewClient(new WebViewClient());
-        webview.loadUrl("https://youtube.com/");
+        webview.loadUrl("https://instagram.com/");
 
         WebSettings settings = webview.getSettings();
         settings.setJavaScriptEnabled(true);
